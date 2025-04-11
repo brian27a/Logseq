@@ -1,9 +1,7 @@
 theme: jekyll-theme-minimal
 title: BA's Logseq
 description: These are Brian's public Logseq pages
-
 on: [push]
-
 permissions:
   contents: write
 jobs:
